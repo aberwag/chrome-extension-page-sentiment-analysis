@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "page sentiment analysis",
+    "description": "Analyse page content with AFINN-165 wordlist sentiment analysis"
+  },
+  "appShortName": {
+    "message": "sentiment",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Analyse page content with AFINN-165 wordlist sentiment analysis",
+    "description": "Analyse page content with AFINN-165 wordlist sentiment analysis"
+  }
+}
